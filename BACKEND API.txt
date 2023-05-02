@@ -1,0 +1,26 @@
+Store-API
+
+http://localhost:3000/api/v1/products
+
+https://github.com/qubesmagazine/store-Api-Backend
+
+
+
+...................................................................
+
+
+Task Manager Api
+
+http://localhost:3000/index.html
+
+https://github.com/qubesmagazine/Manager-Backend
+
+
+
+JWT-WEBTOKEN
+
+http://localhost:3000/
+
+
+
+npm i bcryptjs cors dotenv express express-async-errors express-rate-limit helmet http-status-codes joi jsonwebtoken mongoose rate-limiter swagger-ui-express xss-clean yamljs

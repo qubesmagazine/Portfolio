@@ -1,0 +1,18 @@
+
+First Project
+
+
+https://qubesmagazine.github.io/firstproject
+
+
+News Website
+
+https://qubesmagazine.github.io/MyNewsWebsite/
+
+MovieID React
+
+https://pakarmovies.netlify.app/
+
+flyo front end
+
+https://csssite2023.netlify.app/
